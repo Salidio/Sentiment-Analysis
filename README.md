@@ -20,7 +20,7 @@ This project performs sentiment analysis on tweets related to technology compani
 - Accuracy
 
 ## 📈 Result
-The model achieved an accuracy of XX%.
+The model achieved an accuracy of 0.8694344163658243.
 
 ## 📂 Files
 - sentiment_analysis.ipynb
